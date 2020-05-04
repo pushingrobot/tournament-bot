@@ -1,0 +1,10 @@
+{
+  "name": "tournament-bot",
+  "version": "0.1.0",
+  "description": "A bot for managing the Runway Project tournament and possibly other Discord competitions that involve file submissions.",
+  "main": "index.js",
+  "repository": "https://github.com/pushingrobot/tournament-bot",
+  "author": "David <pushingrobot@me.com>",
+  "license": "MIT",
+  "private": false
+}
